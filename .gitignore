@@ -1,8 +1,7 @@
 atlassian-ide-plugin.xml
-*.jar
-*.zip
-*.ipr
-*.iws
-*.ips
-*.iml
+**/*.jar
+**/*.zip
+**/*.ipr
+**/*.iws
+**/*.iml
 out
