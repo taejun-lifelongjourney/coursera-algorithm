@@ -1,5 +1,8 @@
+atlassian-ide-plugin.xml
 *.jar
 *.zip
 *.ipr
 *.iws
 *.ips
+*.iml
+out
